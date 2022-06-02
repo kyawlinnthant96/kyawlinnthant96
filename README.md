@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **javascript,php8**
 
-- 📫 How to reach me **kyawlinnthant50@gmail.comm**
+- 📫 How to reach me **kyawlinnthant50@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny**
 
