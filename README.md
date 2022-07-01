@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Kyaw Linn Thant</h1>
-<h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<h3 align="center">A Stupid Developer</h3>
+<img align="right" style={border-radius: 4px} alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 - 🔭 I’m currently working on **Personal Blog**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kyawlinnthant50@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I think i'm stupid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
