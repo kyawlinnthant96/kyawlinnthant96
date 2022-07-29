@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Kyaw Linn Thant</h1>
 <h3 align="center">A Curious Developer</h3>
-<img align="right" style={border-radius: 4px} alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="right" style={border-radius: 4px} alt="Coding" width="400" src="https://gfycat.com/fr/exemplaryfairfeline">
 
 
 - 🔭 I’m currently working on **Personal Blog**
