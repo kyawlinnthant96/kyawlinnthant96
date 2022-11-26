@@ -4,7 +4,7 @@
 <h3 align="center">A React Developer</h3>
 <img align="right" style={border-radius: 4px} alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **Self Taught**
+- 🔭 I’m currently working on **Myanmar High Society Com.Ltd**
 
 - 🌱 I’m currently learning **Laravel, React,React Native**
 
