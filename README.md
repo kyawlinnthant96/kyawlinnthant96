@@ -4,15 +4,15 @@
 <h3 align="center">A React Developer</h3>
 <img align="right" style={border-radius: 4px} alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **Myanmar High Society Com.Ltd**
+- 🔭 I’m currently working on **Dreaming**
 
-- 🌱 I’m currently learning **Laravel, React,React Native**
+- 🌱 I’m currently learning **Typescript,Node,NextJs**
 
-- 💬 Ask me about **javascript,php8**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **kyawlinnthant50@gmail.com**
 
-- ⚡ Fun fact **I think i'm stupid but smart TT**
+- ⚡ Fun fact **dont give me a f**k **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
